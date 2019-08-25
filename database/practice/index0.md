@@ -39,6 +39,7 @@ CREATE TABLE Customer
 You can verify if your table has been created successfully by looking at the message displayed by the SQL server, 
 otherwise you can use the DESC command as follows −
 
+```
 SQL> DESC CUSTOMERS;
 +---------+---------------+------+-----+---------+-------+
 | Field   | Type          | Null | Key | Default | Extra |
@@ -51,4 +52,4 @@ SQL> DESC CUSTOMERS;
 +---------+---------------+------+-----+---------+-------+
 5 rows in set (0.00 sec)
 
-
+```
