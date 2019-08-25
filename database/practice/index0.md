@@ -24,6 +24,7 @@ datatype: 資料型態;
 
 若我們要建立我們上面提過的顧客表格，我們就鍵入以下的 SQL：
 
+```
 CREATE TABLE Customer
 (
 	First_Name char(50),
@@ -33,12 +34,13 @@ CREATE TABLE Customer
 	Country char(25),
 	Birth_Date datetime
 );
+```
 
 
 
-You can verify if your table has been created successfully by looking at the message displayed by the SQL server, 
-otherwise you can use the DESC command as follows −
+你可以使用DESC的指令來確定table內部的資訊。
 
+```
 SQL> DESC CUSTOMERS;
 +---------+---------------+------+-----+---------+-------+
 | Field   | Type          | Null | Key | Default | Extra |
@@ -51,4 +53,4 @@ SQL> DESC CUSTOMERS;
 +---------+---------------+------+-----+---------+-------+
 5 rows in set (0.00 sec)
 
-
+```
