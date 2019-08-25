@@ -4,7 +4,7 @@
 
 那，資料種類是什麼呢？資料可能是以許多不同的形式存在的。它可能是一個整數 (例如 1)，、一個實數 (例如 0.55)、一個字串 (例如 'sql')、一個日期/時間 (例如 '2000-JAN-25 03:22:22')、或甚至是 以二進法 (binary) 的狀態存在。當我們在對一個表格下定義時，我們需要對每一個欄位的資料種類下定義。 (例如 '姓' 這個欄位的資料種類是 char(50)──代表這是一個 50 個字元的字串)。我們需要注意的一點是 不同的資料庫有不同的資料種類，所以在對表格做出定義之前最好先參考一下資料庫本身的說明。
 CREATE TABLE 的語法是：
-
+```
 CREATE TABLE table_name(
    column1 datatype,
    column2 datatype,
@@ -13,7 +13,7 @@ CREATE TABLE table_name(
    columnN datatype,
    PRIMARY KEY( one or more columns )
 );
-
+```
 -----
 column1: 欄位 ;
 datatype: 資料型態;
