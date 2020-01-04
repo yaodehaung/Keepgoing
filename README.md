@@ -8,7 +8,7 @@ LeetCode
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
-|1|[Two Sum](https://leetcode.com/problems/two-sum/)| [javascript](./2.two_sum/twoSum.js))|Easy|
+|1|[Two Sum](https://leetcode.com/problems/two-sum/)| [javascript](./2.two_sum/twoSum.js)|Easy|
 
 
 ### LeetCode Shell
