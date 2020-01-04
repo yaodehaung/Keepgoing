@@ -8,7 +8,7 @@ LeetCode
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
-|1|[Two Sum](https://leetcode.com/problems/two-sum/)| [javascript](./algorithms/cpp/twoSum/twoSum.js)  [C++](./algorithms/cpp/twoSum/twoSum.cpp), [Go](./algorithms/golang/twoSum/twoSum.go)|Easy|
+|1|[Two Sum](https://leetcode.com/problems/two-sum/)| [javascript](./2.two_sum/twoSum.js))|Easy|
 
 
 ### LeetCode Shell
@@ -28,3 +28,9 @@ LeetCode
 |1|[Search in a big sorted array](http://www.lintcode.com/en/problem/search-in-a-big-sorted-array/)|[Java](./algorithms/java/src/searchInABigSortedArray/searchInABigSortedArray.java)|Medium|
 |2|[Search Range in Binary Search Tree](http://www.lintcode.com/en/problem/search-range-in-binary-search-tree/) | [Java](./algorithms/java/src/searchRangeInBinarySearchTree/searchRangeInBinarySearchTree.java)|Medium|
 
+
+# Data stucture
+
+| # | Title  | Solution |
+|---| -----  | ---------- |
+|   | stack |  [javascript](./algorithms/javascript/stacks.js)|
