@@ -33,4 +33,4 @@ LeetCode
 
 | # | Title  | Solution |
 |---| -----  | ---------- |
-|   | stack |  [javascript](./algorithms/javascript/stack.js)|
+|   | stack |  [javascript](https://github.com/yaodehaung/Leetcode/blob/master/algorithms/javascript/stack.js)|
