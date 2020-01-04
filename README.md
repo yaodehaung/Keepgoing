@@ -33,4 +33,4 @@ LeetCode
 
 | # | Title  | Solution |
 |---| -----  | ---------- |
-|   | stack |  [javascript](./algorithms/javascript/stacks.js)|
+|   | stack |  [javascript](./algorithms/javascript/stack.js)|
