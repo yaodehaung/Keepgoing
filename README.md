@@ -33,4 +33,16 @@ LeetCode
 
 | # | Title  | Solution |
 |---| -----  | ---------- |
-|   | stack |  [javascript](https://github.com/yaodehaung/Leetcode/blob/master/algorithms/javascript/stack.js)|
+|   | stack |  [javascript](https://github.com/yaodehaung/Leetcode/blob/master/data_structure/stack.js)|
+|   |  Linked List |  |
+|   |  Doubly Linked List |  |
+|   | B-Tree |  |
+
+
+# Algorithms
+| Title  | Solution |
+| -----  | ---------- |
+| bubble sort | | 
+
+d
+
